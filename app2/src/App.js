@@ -10,7 +10,7 @@ const App = () => {
         backgroundColor: 'transparent',
       }}
     >
-      <h1>Microfrontend Applications</h1>
+      <h1>Microfrontend Applications (MLFLOW)</h1>
     </div>
   );
 };
