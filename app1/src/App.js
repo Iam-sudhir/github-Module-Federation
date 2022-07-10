@@ -8,9 +8,9 @@ const App = () => {
         margin:"10px",
         padding:"10px",
         textAlign:"center",
-        backgroundColor:"greenyellow"
+        backgroundColor:"transparent"
       }}>
-        <h1>App1</h1>
+        <h1>Test MLOPS as BASE APP</h1>
       </div>
       <Suspense fallback={"loading..."}>
         <RemoteApp/>
