@@ -10,7 +10,15 @@ const App = () => {
         backgroundColor: 'transparent',
       }}
     >
-      <h1>Microfrontend Applications (MLFLOW)</h1>
+      <div>
+        <h4>Image loading from Different Application</h4>
+        <img
+          src="https://tse1.mm.bing.net/th/id/OIP.bG8t9nihyZgKx4FP8Y_J0AHaEo?pid=ImgDet&rs=1"
+          alt="Trulli"
+          width="150"
+          height="99"
+        />
+      </div>
     </div>
   );
 };

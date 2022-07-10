@@ -71,9 +71,8 @@ const App = () => {
               <RemoteApp />
             </Suspense>
             <p>
-              Standing on the River Thames, London has been a major settlement
-              for two millennia, its history going back to its founding by the
-              Romans, who named it Londinium.
+              London is the capital city of England. It is the most populous
+              city in the United Kingdom
             </p>
           </article>
         </section>
@@ -86,7 +85,7 @@ const App = () => {
             color: 'white',
           }}
         >
-          <p>Footer</p>
+          <p>Footer-XYZS</p>
         </footer>
       </div>
     </div>
